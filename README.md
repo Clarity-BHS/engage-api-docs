@@ -4,7 +4,6 @@
 
 <h1 align="center">API Documentation</h1>
 
----
 # Welcome to the Engage API Documentation
 
 Welcome to the API documentation. This guide provides everything you need to integrate with our REST APIs securely and efficiently.
