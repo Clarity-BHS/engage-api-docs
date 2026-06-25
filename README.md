@@ -4,10 +4,6 @@
 
 <h1 align="center">API Documentation</h1>
 
-<p align="center">
-  Welcome to the official API documentation.
-</p>
-
 ---
 # Welcome to the Engage API Documentation
 
