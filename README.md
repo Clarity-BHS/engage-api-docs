@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/images/engage-logo.png" alt="Engage Logo" width="220">
+</p>
+
+<h1 align="center">API Documentation</h1>
+
+<p align="center">
+  Welcome to the official API documentation.
+</p>
+
+---
 # Welcome to the Engage API Documentation
 
 Welcome to the API documentation. This guide provides everything you need to integrate with our REST APIs securely and efficiently.
